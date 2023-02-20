@@ -1,2 +1,3 @@
 Hello, world!
 New text is here
+Changes for the file
